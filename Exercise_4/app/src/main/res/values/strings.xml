@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Exercise_4</string>
+    <string name="title">Graphical Primitives</string>
+    <string name="line">line</string>
+    <string name="circle">circle</string>
+    <string name="square">rectangle</string>
+    <string name="rectangle">rectangle</string>
+</resources>
