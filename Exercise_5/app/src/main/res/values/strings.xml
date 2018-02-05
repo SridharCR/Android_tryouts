@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Exercise_5</string>
+    <string name="dept_list">Choose a dept</string>
+
+    <string-array name="dept">
+        <item>CSE</item>
+        <item>ECE</item>
+        <item>EEE</item>
+        <item>MECH</item>
+        <item>CIVIL</item>
+        <item>IT</item>
+    </string-array>
+    <string name="title_activity_result">ResultActivity</string>
+</resources>
